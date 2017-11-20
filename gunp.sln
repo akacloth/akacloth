@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gunp", "gunp.csproj", "{8FCDE90D-10AE-2C80-2E8E-8EC1F69104F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gunp.Plugins", "gunp.Plugins.csproj", "{7D6349B5-9674-4D3A-1AFE-DF86D405D694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gunp.Editor.Plugins", "gunp.Editor.Plugins.csproj", "{6E29E030-4F6A-03F6-8B16-0C6F3CE6488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCDE90D-10AE-2C80-2E8E-8EC1F69104F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCDE90D-10AE-2C80-2E8E-8EC1F69104F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCDE90D-10AE-2C80-2E8E-8EC1F69104F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCDE90D-10AE-2C80-2E8E-8EC1F69104F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6349B5-9674-4D3A-1AFE-DF86D405D694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6349B5-9674-4D3A-1AFE-DF86D405D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6349B5-9674-4D3A-1AFE-DF86D405D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6349B5-9674-4D3A-1AFE-DF86D405D694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E29E030-4F6A-03F6-8B16-0C6F3CE6488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E29E030-4F6A-03F6-8B16-0C6F3CE6488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E29E030-4F6A-03F6-8B16-0C6F3CE6488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E29E030-4F6A-03F6-8B16-0C6F3CE6488E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
